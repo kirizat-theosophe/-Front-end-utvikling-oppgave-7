@@ -1,0 +1,13 @@
+body {
+    width:100vh;
+    box-sizing: border-box;
+    background-color: darkgoldenrod;
+}
+
+#firkant {
+    width:150px;
+    height:150px;
+    background-color: wheat;
+    position:absolute;
+    top:250px;
+}

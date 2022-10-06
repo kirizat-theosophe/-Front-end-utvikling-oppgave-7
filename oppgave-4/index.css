@@ -1,0 +1,21 @@
+
+svg {
+    border: 1px solid gray;
+    background-color:beige;
+}
+
+polygon{
+    fill:orange;
+}
+
+rect{
+    x:300;
+    fill:lightgrey;
+    transition: 1s;
+    rx:10;
+    ry:10;    
+}
+
+rect:hover{
+    fill:lightcyan;
+}
